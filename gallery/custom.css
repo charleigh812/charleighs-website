@@ -1,0 +1,10 @@
+.logo {
+  height: 130px !important;
+}
+.w-webflow-badge {
+  display: none !important;
+  visibility: hidden !important;
+}
+.logo-big {
+  height: 200px !important;
+}

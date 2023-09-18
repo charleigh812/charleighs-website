@@ -1,0 +1,36 @@
+.hero-blume-services {
+  position: absolute;
+  left: auto;
+  top: 242px !important;
+  right: -93px;
+  bottom: auto;
+  z-index: 999;
+}
+
+.homepage-header {
+  padding-top: 25px;
+}
+
+.logo {
+  height: 130px !important;
+}
+
+.logo-big {
+  height: 200px !important;
+}
+.services-shape {
+  height: 120px !important;
+  top: auto;
+  left: -79px;
+  bottom: 45px;
+  right: auto;
+  position: relative;
+}
+
+.w-webflow-badge {
+  display: none !important;
+}
+
+.testimonial-frame {
+  margin-top: 30px;
+}
